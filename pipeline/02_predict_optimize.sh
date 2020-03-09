@@ -1,5 +1,10 @@
 #!/bin/bash
 #SBATCH -p batch --time 2-0:00:00 --ntasks 16 --nodes 1 --mem 24G --out logs/predict.%a.log
+# Define program name
+PROGNAME=$(basename $0)
+
+# Load software
+module load funannotate/1.7.3_sing
 
 CPU=1
 if [ $SLURM_CPUS_ON_NODE ]; then
@@ -26,20 +31,14 @@ if [ $N -gt $MAX ]; then
     exit
 fi
 
-module unload python
-module unload perl
-module unload miniconda2
-module unload miniconda3
-module load funannotate/development
-source activate funannotate
-module unload rmblastn
-module load ncbi-rmblast/2.6.0
-module load genemarkESET/4.38
 export AUGUSTUS_CONFIG_PATH=$(realpath lib/augustus/3.3/config)
-GMFOLDER=`dirname $(which gmhmme3)`
+export GENEMARK_PATH=/opt/genemark/gm_et_linux_64
+
 export FUNANNOTATE_DB=/bigdata/stajichlab/shared/lib/funannotate_db
 # make genemark key link required to run it
 if [ ! -f ~/.gm_key ]; then
+	module  load    genemarkESET/4.38
+	GMFOLDER=`dirname $(which gmhmme3)`
         ln -s $GMFOLDER/.gm_key ~/.gm_key
 fi
 

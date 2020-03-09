@@ -30,7 +30,7 @@ fi
 
 IFS=,
 SPECIES="Aspergillus fumigatus"
-tail -n +2 $SAMPFILE | sed -n ${N}p | while read BASE LOCUS
+cat $SAMPFILE | sed -n ${N}p | while read BASE LOCUS
 do
   name=$BASE
  if [ ! -f $INDIR/${name}.sorted.fasta ]; then
