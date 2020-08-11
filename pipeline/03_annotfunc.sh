@@ -4,19 +4,20 @@
 #SBATCH --output=logs/annotfunc.%a.log
 #SBATCH --time=2-0:00:00
 #SBATCH -p intel -J annotfunc
-module unload miniconda2
-module unload miniconda3
-module load funannotate/development
+
 module unload perl
 module unload python
-source activate funannotate
+module unload miniconda2
+module unload anaconda3
+module load miniconda2
+module load funannotate/1.8.0
+source activate funannotate-1.8
 module load phobius
-module load diamond
 CPUS=$SLURM_CPUS_ON_NODE
 OUTDIR=annotate
 INDIR=genomes
 SAMPFILE=samples.csv
-BUSCO=eurotiomycetes_odb9
+BUSCO=eurotiomycetes_odb10
 species="Aspergillus fumigatus"
 if [ -z $CPUS ]; then
  CPUS=1

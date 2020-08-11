@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --nodes 1 --ntasks 8 --mem 16G --out logs/antismash.%a.log -J antismash
+#SBATCH --nodes 1 --ntasks 16 --mem 16G --out logs/antismash.%a.log -J antismash
 
 module unload miniconda2
 module unload miniconda3

@@ -7,10 +7,9 @@ if [ $SLURM_CPUS_ON_NODE ]; then
 fi
 
 INDIR=genomes
-OUTDIR=genomes
+OUTDIR=RepeatMasker_run
 
-mkdir -p repeat_library
-
+LIBRARY=$(realpath lib/Afum95_Fungi_repeats.lib)
 SAMPFILE=samples.csv
 N=${SLURM_ARRAY_TASK_ID}
 
@@ -32,34 +31,25 @@ SPECIES="Aspergillus fumigatus"
 cat $SAMPFILE | sed -n ${N}p | while read BASE LOCUS
 do
   name=$BASE
- if [ ! -f $INDIR/${name}.sorted.fasta ]; then
+ if [ ! -f $INDIR/${name}.scaffolds.fasta ]; then
      echo "Cannot find $name in $INDIR - may not have been run yet"
      exit
  fi
 
-if [ ! -f $OUTDIR/${name}.masked.fasta ]; then
-	module unload miniconda2
+ if [ ! -s $INDIR/${name}.masked.fasta ]; then
+	 module unload miniconda2
 module unload anaconda3
 module load miniconda3
 module unload perl
 module unload python
 module load funannotate/1.8.0
 source activate funannotate-1.8
-  export AUGUSTUS_CONFIG_PATH=$(realpath lib/augustus/3.3/config)
-    if [ -f repeat_library/${name}.repeatmodeler-library.fasta ]; then
-	    LIBRARY=repeat_library/${name}.repeatmodeler-library.fasta
-    	LIBRARY=$(realpath $LIBRARY)
-    fi
-    mkdir $name.mask.$$
-    pushd $name.mask.$$
-    if [ ! -z $LIBRARY ]; then
-    	funannotate mask --cpus $CPU -i ../$INDIR/${name}.sorted.fasta -o ../$OUTDIR/${name}.masked.fasta -l $LIBRARY --method repeatmodeler
-    else
-	    funannotate mask --cpus $CPU -i ../$INDIR/${name}.sorted.fasta -o ../$OUTDIR/${name}.masked.fasta --method repeatmodeler
-	    rsync -av repeatmodeler-library.*.fasta ../repeat_library/${name}.repeatmodeler-library.fasta
-    fi
-    popd
-    rmdir $name.mask.$$
+module switch ncbi-rmblast/2.9.0-p2
+
+#  funannotate mask --cpus $CPU -i ../$INDIR/${name}.scaffolds.fasta -o ../$OUTDIR/${name}.masked.fasta -l $LIBRARY --method repeatmasker
+  mkdir -p $OUTDIR/${name}
+  RepeatMasker -e ncbi -xsmall -s -pa $CPU -lib $LIBRARY -dir $OUTDIR/${name} -gff $INDIR/${name}.scaffolds.fasta 
+  rsync -a $OUTDIR/${name}/${name}.scaffolds.fasta.masked $INDIR/${name}.masked.fasta
 else
     echo "Skipping ${name} as masked already"
 fi

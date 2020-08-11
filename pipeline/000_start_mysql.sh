@@ -1,5 +1,5 @@
 #!/bin/bash -l
-#SBATCH -p batch -N 1 -n 4 --mem 32gb --time 5-0:0:0 --out logs/mysql.log -J mysqld
+#SBATCH -p stajichlab -N 1 -n 4 --mem 32gb --time 24-0:0:0 --out logs/mysql.log -J mysqld
 # Define program name
 PROGNAME=$(basename $0)
 

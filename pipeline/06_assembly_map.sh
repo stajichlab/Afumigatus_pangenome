@@ -35,8 +35,12 @@ INDIR=genomes
 ANNOTATEDIR=$(realpath annotate)
 SAMPFILE=samples.csv
 
-#IFS=,
-#parallel -j $CPU minimap2 -t 2 --cs -cx asm10 $REFGENOME $INDIR/{}.masked.fasta \> $OUTDIR/{}.$REFNAME.paf ::: $(cut -f1 -d, $SAMPFILE)
-#parallel -j $CPU ln -s $ANNOTATEDIR/{}/annotate_misc/antismash/clusters.bed $CLUSTER_MAP/{}.clusters.bed ::: $(cut -f1 -d, $SAMPFILE)
+parallel -j $CPU minimap2 -t 2 --cs -cx asm10 $REFGENOME $INDIR/{}.masked.fasta \> $OUTDIR/{}.$REFNAME.paf ::: $(cut -f1 -d, $SAMPFILE)
+parallel -j $CPU ln -s $ANNOTATEDIR/{}/annotate_misc/antismash/clusters.bed $CLUSTER_MAP/{}.clusters.bed ::: $(cut -f1 -d, $SAMPFILE)
 
 parallel -j $CPU paftools.js liftover -l 5000 $OUTDIR/{}.$REFNAME.paf $CLUSTER_MAP/{}.clusters.bed \> $CLUSTER_MAP/{}.clusters_mapped_Af293.bed ::: $(cut -f1 -d, $SAMPFILE)
+
+module load bedtools
+cat cluster_mapping/*.clusters_mapped_Af293.bed | bedtools sort -i - | bedtools merge -c 1 -o count -i - -d 5000  > cluster_frequency.tab
+
+cat cluster_mapping/*.clusters_mapped_Af293.bed | bedtools sort -i - | bedtools cluster -i - -d 5000 > cluster_names.tab

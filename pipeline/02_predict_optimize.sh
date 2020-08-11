@@ -4,7 +4,13 @@
 PROGNAME=$(basename $0)
 
 # Load software
-module load funannotate/1.7.3_sing
+module unload miniconda2
+module unload anaconda3
+module load miniconda3
+module unload perl
+module unload python
+module load funannotate/1.8.0
+source activate funannotate-1.8
 
 CPU=1
 if [ $SLURM_CPUS_ON_NODE ]; then
@@ -32,12 +38,12 @@ if [ $N -gt $MAX ]; then
 fi
 
 export AUGUSTUS_CONFIG_PATH=$(realpath lib/augustus/3.3/config)
-export GENEMARK_PATH=/opt/genemark/gm_et_linux_64
+#export GENEMARK_PATH=/opt/genemark/gm_et_linux_64
 
 export FUNANNOTATE_DB=/bigdata/stajichlab/shared/lib/funannotate_db
 # make genemark key link required to run it
 if [ ! -f ~/.gm_key ]; then
-	module  load    genemarkESET/4.38
+	module  load    genemarkESET/4.59_lic
 	GMFOLDER=`dirname $(which gmhmme3)`
         ln -s $GMFOLDER/.gm_key ~/.gm_key
 fi
