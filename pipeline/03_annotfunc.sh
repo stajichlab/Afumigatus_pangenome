@@ -12,6 +12,7 @@ module unload anaconda3
 module load miniconda2
 module load funannotate/1.8.0
 source activate funannotate-1.8
+export FUNANNOTATE_DB=/bigdata/stajichlab/shared/lib/funannotate_db
 module load phobius
 CPUS=$SLURM_CPUS_ON_NODE
 OUTDIR=annotate

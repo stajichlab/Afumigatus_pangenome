@@ -28,6 +28,7 @@ INDIR=genomes
 OUTDIR=annotate
 
 SAMPFILE=samples.csv
+
 N=${SLURM_ARRAY_TASK_ID}
 
 if [ ! $N ]; then
@@ -44,7 +45,7 @@ if [ $N -gt $MAX ]; then
     exit
 fi
 species="Aspergillus fumigatus"
-IFS=,
+IFS=,  # this species the column split character in $SAMPFILE
 BUSCO=$(realpath eurotiales_odb10)
 cat $SAMPFILE | sed -n ${N}p | while read BASE LOCUS
 do
@@ -54,11 +55,14 @@ do
 		echo "No genome for $INDIR/$name.masked.fasta yet - run 00_mash.sh $N"
 		exit
 	fi
- 	mkdir $name.predict.$$
- 	pushd $name.predict.$$
+	PEP=$(realpath lib/informant.aa)
+	OUT=$(realpath $OUTDIR/$name)
+	INP=$(realpath $INDIR/$name.masked.fasta)
+ 	mkdir /scratch/$name.predict.$$
+ 	pushd /scratch/$name.predict.$$
     	funannotate predict --cpus $CPU --keep_no_stops --SeqCenter UCR --busco_db $BUSCO --strain "$BASE" \
-      -i ../$INDIR/$name.masked.fasta --name $LOCUS --protein_evidence ../lib/informant.aa \
-      -s "$species"  -o ../$OUTDIR/$name --busco_seed_species $SEED_SPECIES
+      -i $INP --name $LOCUS --protein_evidence $PEP \
+      -s "$species"  -o $OUT --busco_seed_species $SEED_SPECIES
 	popd
- 	rmdir $name.predict.$$
+ 	rmdir /scratch/$name.predict.$$
 done

@@ -1,12 +1,14 @@
 #!/bin/bash
-#SBATCH --nodes 1 --ntasks 16 --mem 16G --out logs/antismash.%a.log -J antismash
+#SBATCH --nodes 1 --ntasks 4 --mem 8G --out logs/antismash.%a.log -J antismash
 
 module unload miniconda2
 module unload miniconda3
 module load anaconda3
-module load antismash/5.1.1
-module load antismash/5.1.1
-which perl
+module load antismash/5
+which conda
+which python
+source activate antismash5
+which python
 which antismash
 hostname
 #module list
@@ -51,7 +53,7 @@ do
 	#    --asf --fullhmmer --cassis --clusterhmmer --asf --cb-general --pfam2go --cb-subclusters --cb-knownclusters -c $CPU \
 	#    $OUTDIR/$name/$INPUTFOLDER/*.gbk
 	 time antismash --taxon fungi --output-dir $OUTDIR/$name/antismash_local \
-	 --genefinding-tool none --fullhmmer --clusterhmmer --cb-general \
-		 --pfam2go -c $CPU $OUTDIR/$name/$INPUTFOLDER/*.gbk
+	 --genefinding-tool none --fullhmmer --clusterhmmer --cb-general --cf-create-clusters --cb-subclusters --cb-knownclusters \
+		 --pfam2go -c $CPU --skip-zip-file $OUTDIR/$name/$INPUTFOLDER/*.gbk
 	fi
 done
