@@ -6,6 +6,7 @@ ulimit -n 67700
 CPU=32
 mkdir -p logs
 module load orthofinder
-export TMPDIR=/scratch
+module load workspace/scratch # use HPCC workspace scratch local folder
+export TMPDIR=$SCRATCH
 orthofinder -b OrthoFinder_diamond/Blast_results -t $CPU -a $CPU -S diamond_ultra_sens 
 
