@@ -7,7 +7,7 @@ opt="-C xeon" # could change to "-C xeon" and will run on the xeon nodes; # coul
 JOBS=orthofinder_steps.diamond.sh
 LOG=orthofinder_steps.diamond.log
 CHUNK=50
-export TMPDIR=/scratch
+export TEMPDIR=/scratch
 if [ ! -f $LOG ]; then
 	orthofinder -op -t 96 -a 96 -f input -S diamond_ultra_sens -o OrthoFinder_diamond > $LOG
 fi
