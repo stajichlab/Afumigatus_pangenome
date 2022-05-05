@@ -5,7 +5,7 @@ ulimit -Hn
 ulimit -n 67700
 CPU=32
 mkdir -p logs
-module load orthofinder/2.5.2
+module load orthofinder
 export TMPDIR=/scratch
 orthofinder -b OrthoFinder_diamond/Blast_results -t $CPU -a $CPU -S diamond_ultra_sens 
 
