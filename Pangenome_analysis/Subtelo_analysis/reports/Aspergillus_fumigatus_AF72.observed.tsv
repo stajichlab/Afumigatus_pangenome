@@ -1,0 +1,4 @@
+STRAIN	TOTAL	CORE	ACCESSORY	SINGLETON	CHROM	START	END
+Aspergillus_fumigatus_AF72	12	1	11	0	scaffold_2	1	50000
+Aspergillus_fumigatus_AF72	13	12	1	0	scaffold_3	4459247	4509247
+Aspergillus_fumigatus_AF72	16	12	4	0	scaffold_6	2962466	3012466

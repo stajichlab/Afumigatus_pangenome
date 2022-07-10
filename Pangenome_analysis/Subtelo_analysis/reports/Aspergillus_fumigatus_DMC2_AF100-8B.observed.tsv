@@ -1,0 +1,5 @@
+STRAIN	TOTAL	CORE	ACCESSORY	SINGLETON	CHROM	START	END
+Aspergillus_fumigatus_DMC2_AF100-8B	4	0	4	0	scaffold_2	1	50000
+Aspergillus_fumigatus_DMC2_AF100-8B	12	8	4	0	scaffold_2	4404554	4454554
+Aspergillus_fumigatus_DMC2_AF100-8B	17	13	4	0	scaffold_6	1	50000
+Aspergillus_fumigatus_DMC2_AF100-8B	21	20	1	0	scaffold_6	3274657	3324657

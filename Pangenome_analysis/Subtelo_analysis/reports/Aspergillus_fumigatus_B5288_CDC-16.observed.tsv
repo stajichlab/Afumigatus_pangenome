@@ -1,0 +1,5 @@
+STRAIN	TOTAL	CORE	ACCESSORY	SINGLETON	CHROM	START	END
+Aspergillus_fumigatus_B5288_CDC-16	19	16	3	0	scaffold_1	1	50000
+Aspergillus_fumigatus_B5288_CDC-16	9	8	1	0	scaffold_1	4865544	4915544
+Aspergillus_fumigatus_B5288_CDC-16	3	0	3	0	scaffold_3	4167945	4217945
+Aspergillus_fumigatus_B5288_CDC-16	10	0	10	0	scaffold_9	1	50000
