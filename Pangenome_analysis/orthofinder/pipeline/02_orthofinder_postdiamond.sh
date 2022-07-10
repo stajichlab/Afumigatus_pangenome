@@ -1,8 +1,10 @@
 #!/usr/bin/bash -l
-#SBATCH --time 5-0:0:0 -p intel -N 1 -n 32 --mem 256gb --out logs/orthofinder_build.%A.log
+#SBATCH --time 5-0:0:0 -p highmem -N 1 -n 32 --mem 500gb --out logs/orthofinder_build.%A.log
 ulimit -Sn
 ulimit -Hn
-ulimit -n 67700
+ulimit -n 80000
+ulimit -Sn
+ulimit -Hn
 CPU=32
 mkdir -p logs
 module load orthofinder

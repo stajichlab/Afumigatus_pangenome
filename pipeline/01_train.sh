@@ -81,5 +81,5 @@ do
   done
   funannotate train -i $MASKED -o $ODIR/$BASE --trinity $TRANSCRIPT \
     --jaccard_clip --species "$SPECIES" --isolate $STRAIN \
-    --cpus $CPUS --memory $MEM  --pasa_db mysql --left $RNAFOLDER/${RNASEQSET}_R1.fq.gz --right $RNAFOLDER/${RNASEQSET}_R1.fq.gz
+    --cpus $CPUS --memory $MEM  --pasa_db mysql --left $RNAFOLDER/${RNASEQSET}_R1.fq.gz --right $RNAFOLDER/${RNASEQSET}_R2.fq.gz
 done

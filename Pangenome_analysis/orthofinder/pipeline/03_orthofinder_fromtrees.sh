@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH --time 5-0:0:0 -p intel -N 1 -n 32 --mem 128gb --out logs/orthofinder_treebuild.%A.log
+#SBATCH --time 5-0:0:0 -p intel -N 1 -n 32 --mem 228gb --out logs/orthofinder_treebuild.%A.log
 ulimit -Sn
 ulimit -Hn
 ulimit -n 80000

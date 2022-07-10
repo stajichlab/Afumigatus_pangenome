@@ -23,5 +23,5 @@ source activate /bigdata/stajichlab/jstajich/.conda/envs/pirate
 
 #~/projects/PIRATE/bin/PIRATE -f "mRNA" -i gff \
 /bigdata/stajichlab/jstajich/projects/PIRATE/bin/PIRATE -f "mRNA" -i gff \
-    -t $CPUS --rplots -o 261_strains --nucl \
+    -t $CPUS --rplots -o 260_strains --nucl \
     -s "85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100" -k "--cd-low 100 -e 1E-9 --hsp-prop 0.5" -a -r
