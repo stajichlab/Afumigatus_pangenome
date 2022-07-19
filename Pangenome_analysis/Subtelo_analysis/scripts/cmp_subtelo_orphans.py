@@ -106,7 +106,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description='Examine Subtelomeric genes')
 
     parser.add_argument(
-        '-s', '--size', help='Subtelomeric window size (50kb)', default=50000)
+        '-s', '--size', help='Subtelomeric window size (50kb)', default=50000,type=int)
     parser.add_argument(
         '-i', '--fasta', help='Fasta file to examine', required=True)
     parser.add_argument(
