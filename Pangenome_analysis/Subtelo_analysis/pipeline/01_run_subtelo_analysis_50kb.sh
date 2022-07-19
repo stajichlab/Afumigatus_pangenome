@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -n 1 -a 1-309 --out logs/telorun.%a.log
+#SBATCH -p short -N 1 -n 1 -a 1-309 --out logs/telorun_50k.%a.log
 
 module load miniconda3
 conda activate /bigdata/stajichlab/shared/condaenv/pybedtools
@@ -19,4 +19,6 @@ GENOME=$(ls genomes/*.scaffolds.fa | sed -n ${N}p)
 PREFIX=$(basename $GENOME .scaffolds.fa)
 BED=gene_bed/$PREFIX.bed
 
-python scripts/cmp_subtelo_orphans.py -t $OG -of $ORPHANS -i $GENOME --gff $BED --output reports/$PREFIX.observed.tsv --random reports/$PREFIX.random.tsv
+python scripts/cmp_subtelo_orphans.py -t $OG -of $ORPHANS -i $GENOME --gff $BED --size 50000 \
+	--output reports/$PREFIX.observed_50k.tsv --random reports/$PREFIX.random_50k.tsv
+
