@@ -1,0 +1,12 @@
+Assembly statistics for: CM7632.sorted.fasta
+   CONTIG COUNT  =  708
+   TOTAL LENGTH  =  28385105
+            MIN  =  502
+            MAX  =  453235
+         MEDIAN  =  13880
+           MEAN  =  40091.96
+            L50  =  84
+            N50  =  104430
+            L90  =  277
+            N90  =  28203
+            GC%  =  49.91

@@ -1,0 +1,12 @@
+Assembly statistics for: B5852.sorted.fasta
+   CONTIG COUNT  =  1020
+   TOTAL LENGTH  =  28134673
+            MIN  =  502
+            MAX  =  343274
+         MEDIAN  =  9289
+           MEAN  =  27583.01
+            L50  =  121
+            N50  =  70967
+            L90  =  402
+            N90  =  19299
+            GC%  =  49.51

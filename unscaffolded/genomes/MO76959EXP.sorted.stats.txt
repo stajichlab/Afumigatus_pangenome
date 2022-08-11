@@ -1,0 +1,12 @@
+Assembly statistics for: MO76959EXP.sorted.fasta
+   CONTIG COUNT  =  260
+   TOTAL LENGTH  =  28435793
+            MIN  =  500
+            MAX  =  1192584
+         MEDIAN  =  7939
+           MEAN  =  109368.43
+            L50  =  21
+            N50  =  444514
+            L90  =  71
+            N90  =  112469
+            GC%  =  49.66

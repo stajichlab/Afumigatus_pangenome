@@ -1,0 +1,12 @@
+Assembly statistics for: IFM_58026.sorted.fasta
+   CONTIG COUNT  =  987
+   TOTAL LENGTH  =  27760339
+            MIN  =  500
+            MAX  =  208575
+         MEDIAN  =  13618
+           MEAN  =  28125.98
+            L50  =  134
+            N50  =  67344
+            L90  =  444
+            N90  =  17906
+            GC%  =  50.14

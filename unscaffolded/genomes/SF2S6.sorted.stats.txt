@@ -1,0 +1,12 @@
+Assembly statistics for: SF2S6.sorted.fasta
+   CONTIG COUNT  =  315
+   TOTAL LENGTH  =  28284354
+            MIN  =  501
+            MAX  =  709384
+         MEDIAN  =  31358
+           MEAN  =  89791.60
+            L50  =  36
+            N50  =  250260
+            L90  =  124
+            N90  =  68915
+            GC%  =  49.60

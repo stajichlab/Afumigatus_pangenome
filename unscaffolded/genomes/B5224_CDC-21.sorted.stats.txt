@@ -1,0 +1,12 @@
+Assembly statistics for: B5224_CDC-21.sorted.fasta
+   CONTIG COUNT  =  188
+   TOTAL LENGTH  =  28141109
+            MIN  =  500
+            MAX  =  1150607
+         MEDIAN  =  37233
+           MEAN  =  149686.75
+            L50  =  21
+            N50  =  440114
+            L90  =  64
+            N90  =  127722
+            GC%  =  49.60

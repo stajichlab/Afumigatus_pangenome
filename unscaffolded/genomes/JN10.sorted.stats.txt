@@ -1,0 +1,12 @@
+Assembly statistics for: JN10.sorted.fasta
+   CONTIG COUNT  =  1697
+   TOTAL LENGTH  =  28319342
+            MIN  =  500
+            MAX  =  163519
+         MEDIAN  =  8228
+           MEAN  =  16687.89
+            L50  =  230
+            N50  =  36172
+            L90  =  797
+            N90  =  9735
+            GC%  =  49.75

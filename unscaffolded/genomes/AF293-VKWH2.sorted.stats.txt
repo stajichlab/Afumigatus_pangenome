@@ -1,0 +1,12 @@
+Assembly statistics for: AF293-VKWH2.sorted.fasta
+   CONTIG COUNT  =  907
+   TOTAL LENGTH  =  28329596
+            MIN  =  501
+            MAX  =  440416
+         MEDIAN  =  12065
+           MEAN  =  31234.39
+            L50  =  104
+            N50  =  79760
+            L90  =  379
+            N90  =  18121
+            GC%  =  49.60

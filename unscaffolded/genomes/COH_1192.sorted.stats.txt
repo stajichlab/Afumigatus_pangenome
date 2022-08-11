@@ -1,0 +1,12 @@
+Assembly statistics for: COH_1192.sorted.fasta
+   CONTIG COUNT  =  277
+   TOTAL LENGTH  =  27698953
+            MIN  =  500
+            MAX  =  1695102
+         MEDIAN  =  2631
+           MEAN  =  99996.22
+            L50  =  16
+            N50  =  557923
+            L90  =  55
+            N90  =  141914
+            GC%  =  49.73

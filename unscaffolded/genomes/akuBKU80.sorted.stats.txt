@@ -1,0 +1,12 @@
+Assembly statistics for: akuBKU80.sorted.fasta
+   CONTIG COUNT  =  5228
+   TOTAL LENGTH  =  35821546
+            MIN  =  500
+            MAX  =  333341
+         MEDIAN  =  1282
+           MEAN  =  6851.86
+            L50  =  158
+            N50  =  61768
+            L90  =  1731
+            N90  =  1906
+            GC%  =  52.57

@@ -1,0 +1,12 @@
+Assembly statistics for: histone_RFP.sorted.fasta
+   CONTIG COUNT  =  1903
+   TOTAL LENGTH  =  29354940
+            MIN  =  500
+            MAX  =  190761
+         MEDIAN  =  5762
+           MEAN  =  15425.61
+            L50  =  242
+            N50  =  37844
+            L90  =  804
+            N90  =  9248
+            GC%  =  49.68

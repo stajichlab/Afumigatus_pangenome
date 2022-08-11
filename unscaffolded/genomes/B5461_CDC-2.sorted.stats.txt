@@ -1,0 +1,12 @@
+Assembly statistics for: B5461_CDC-2.sorted.fasta
+   CONTIG COUNT  =  220
+   TOTAL LENGTH  =  27845500
+            MIN  =  513
+            MAX  =  1317016
+         MEDIAN  =  28396
+           MEAN  =  126570.45
+            L50  =  27
+            N50  =  371952
+            L90  =  77
+            N90  =  108858
+            GC%  =  49.55

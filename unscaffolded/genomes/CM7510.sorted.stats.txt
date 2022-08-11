@@ -1,0 +1,12 @@
+Assembly statistics for: CM7510.sorted.fasta
+   CONTIG COUNT  =  834
+   TOTAL LENGTH  =  28667374
+            MIN  =  510
+            MAX  =  398439
+         MEDIAN  =  18100
+           MEAN  =  34373.35
+            L50  =  115
+            N50  =  78979
+            L90  =  387
+            N90  =  21226
+            GC%  =  49.51

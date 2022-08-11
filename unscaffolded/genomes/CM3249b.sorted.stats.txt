@@ -1,0 +1,12 @@
+Assembly statistics for: CM3249b.sorted.fasta
+   CONTIG COUNT  =  705
+   TOTAL LENGTH  =  27227899
+            MIN  =  505
+            MAX  =  317997
+         MEDIAN  =  21776
+           MEAN  =  38621.13
+            L50  =  101
+            N50  =  82758
+            L90  =  319
+            N90  =  26262
+            GC%  =  50.20

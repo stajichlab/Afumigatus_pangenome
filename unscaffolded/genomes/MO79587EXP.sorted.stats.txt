@@ -1,0 +1,12 @@
+Assembly statistics for: MO79587EXP.sorted.fasta
+   CONTIG COUNT  =  225
+   TOTAL LENGTH  =  27709131
+            MIN  =  502
+            MAX  =  2872216
+         MEDIAN  =  5609
+           MEAN  =  123151.69
+            L50  =  14
+            N50  =  581791
+            L90  =  48
+            N90  =  157388
+            GC%  =  49.98

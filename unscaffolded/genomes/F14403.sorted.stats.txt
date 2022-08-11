@@ -1,0 +1,12 @@
+Assembly statistics for: F14403.sorted.fasta
+   CONTIG COUNT  =  256
+   TOTAL LENGTH  =  28249792
+            MIN  =  504
+            MAX  =  1400692
+         MEDIAN  =  12714
+           MEAN  =  110350.75
+            L50  =  24
+            N50  =  380962
+            L90  =  79
+            N90  =  94913
+            GC%  =  49.61

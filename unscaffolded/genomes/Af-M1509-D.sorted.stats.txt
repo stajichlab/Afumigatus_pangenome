@@ -1,0 +1,12 @@
+Assembly statistics for: Af-M1509-D.sorted.fasta
+   CONTIG COUNT  =  220
+   TOTAL LENGTH  =  28201970
+            MIN  =  505
+            MAX  =  766909
+         MEDIAN  =  30411
+           MEAN  =  128190.77
+            L50  =  26
+            N50  =  392279
+            L90  =  75
+            N90  =  90863
+            GC%  =  49.58

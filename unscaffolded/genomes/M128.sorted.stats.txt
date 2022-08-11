@@ -1,0 +1,12 @@
+Assembly statistics for: M128.sorted.fasta
+   CONTIG COUNT  =  7146
+   TOTAL LENGTH  =  28942809
+            MIN  =  498
+            MAX  =  334727
+         MEDIAN  =  958
+           MEAN  =  4050.21
+            L50  =  363
+            N50  =  17017
+            L90  =  3175
+            N90  =  1029
+            GC%  =  49.23

@@ -1,0 +1,12 @@
+Assembly statistics for: B7444_CDC-7.sorted.fasta
+   CONTIG COUNT  =  178
+   TOTAL LENGTH  =  28442646
+            MIN  =  517
+            MAX  =  1370428
+         MEDIAN  =  78614
+           MEAN  =  159790.15
+            L50  =  21
+            N50  =  430241
+            L90  =  75
+            N90  =  111166
+            GC%  =  49.53

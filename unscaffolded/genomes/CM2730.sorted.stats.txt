@@ -1,0 +1,12 @@
+Assembly statistics for: CM2730.sorted.fasta
+   CONTIG COUNT  =  639
+   TOTAL LENGTH  =  27412832
+            MIN  =  506
+            MAX  =  293857
+         MEDIAN  =  24767
+           MEAN  =  42899.58
+            L50  =  94
+            N50  =  94504
+            L90  =  304
+            N90  =  26783
+            GC%  =  50.00

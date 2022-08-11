@@ -1,0 +1,12 @@
+Assembly statistics for: RSF2S8.sorted.fasta
+   CONTIG COUNT  =  484
+   TOTAL LENGTH  =  28564639
+            MIN  =  502
+            MAX  =  560677
+         MEDIAN  =  21367
+           MEAN  =  59017.85
+            L50  =  58
+            N50  =  154401
+            L90  =  196
+            N90  =  37716
+            GC%  =  49.44

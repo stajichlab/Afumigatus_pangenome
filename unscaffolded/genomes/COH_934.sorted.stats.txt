@@ -1,0 +1,12 @@
+Assembly statistics for: COH_934.sorted.fasta
+   CONTIG COUNT  =  2645
+   TOTAL LENGTH  =  28968429
+            MIN  =  500
+            MAX  =  675062
+         MEDIAN  =  946
+           MEAN  =  10952.15
+            L50  =  81
+            N50  =  87193
+            L90  =  481
+            N90  =  7810
+            GC%  =  49.29

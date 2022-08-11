@@ -1,0 +1,12 @@
+Assembly statistics for: AF100-12_3G.sorted.fasta
+   CONTIG COUNT  =  1156
+   TOTAL LENGTH  =  28239965
+            MIN  =  503
+            MAX  =  195613
+         MEDIAN  =  13705
+           MEAN  =  24429.04
+            L50  =  181
+            N50  =  50643
+            L90  =  577
+            N90  =  13714
+            GC%  =  49.57

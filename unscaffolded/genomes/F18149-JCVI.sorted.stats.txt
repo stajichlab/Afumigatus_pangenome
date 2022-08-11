@@ -1,0 +1,12 @@
+Assembly statistics for: F18149-JCVI.sorted.fasta
+   CONTIG COUNT  =  561
+   TOTAL LENGTH  =  28130001
+            MIN  =  508
+            MAX  =  538320
+         MEDIAN  =  7789
+           MEAN  =  50142.60
+            L50  =  51
+            N50  =  176138
+            L90  =  175
+            N90  =  42145
+            GC%  =  49.71

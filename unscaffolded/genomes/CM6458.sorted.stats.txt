@@ -1,0 +1,12 @@
+Assembly statistics for: CM6458.sorted.fasta
+   CONTIG COUNT  =  770
+   TOTAL LENGTH  =  28556157
+            MIN  =  500
+            MAX  =  387769
+         MEDIAN  =  11244
+           MEAN  =  37085.92
+            L50  =  82
+            N50  =  102949
+            L90  =  293
+            N90  =  24133
+            GC%  =  49.56

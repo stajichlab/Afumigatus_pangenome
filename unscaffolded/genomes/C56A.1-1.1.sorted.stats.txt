@@ -1,0 +1,12 @@
+Assembly statistics for: C56A.1-1.1.sorted.fasta
+   CONTIG COUNT  =  6156
+   TOTAL LENGTH  =  28652540
+            MIN  =  474
+            MAX  =  427434
+         MEDIAN  =  890
+           MEAN  =  4654.41
+            L50  =  219
+            N50  =  29894
+            L90  =  2261
+            N90  =  1052
+            GC%  =  49.21

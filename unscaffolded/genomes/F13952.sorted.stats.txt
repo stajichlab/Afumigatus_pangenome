@@ -1,0 +1,12 @@
+Assembly statistics for: F13952.sorted.fasta
+   CONTIG COUNT  =  407
+   TOTAL LENGTH  =  28385200
+            MIN  =  504
+            MAX  =  909985
+         MEDIAN  =  10157
+           MEAN  =  69742.51
+            L50  =  36
+            N50  =  229302
+            L90  =  122
+            N90  =  59658
+            GC%  =  49.51

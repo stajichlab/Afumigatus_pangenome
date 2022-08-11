@@ -1,0 +1,12 @@
+Assembly statistics for: AF106-6_9.sorted.fasta
+   CONTIG COUNT  =  1290
+   TOTAL LENGTH  =  27961259
+            MIN  =  504
+            MAX  =  254986
+         MEDIAN  =  9614
+           MEAN  =  21675.39
+            L50  =  169
+            N50  =  48729
+            L90  =  573
+            N90  =  13184
+            GC%  =  49.70

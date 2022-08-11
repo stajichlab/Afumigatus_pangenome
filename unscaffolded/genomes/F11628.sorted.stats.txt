@@ -1,0 +1,12 @@
+Assembly statistics for: F11628.sorted.fasta
+   CONTIG COUNT  =  1299
+   TOTAL LENGTH  =  28528000
+            MIN  =  500
+            MAX  =  353501
+         MEDIAN  =  3125
+           MEAN  =  21961.51
+            L50  =  119
+            N50  =  71584
+            L90  =  412
+            N90  =  17253
+            GC%  =  49.41

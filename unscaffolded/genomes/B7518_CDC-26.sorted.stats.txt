@@ -1,0 +1,12 @@
+Assembly statistics for: B7518_CDC-26.sorted.fasta
+   CONTIG COUNT  =  330
+   TOTAL LENGTH  =  28517975
+            MIN  =  500
+            MAX  =  954575
+         MEDIAN  =  2363
+           MEAN  =  86418.11
+            L50  =  25
+            N50  =  401071
+            L90  =  71
+            N90  =  131998
+            GC%  =  49.52

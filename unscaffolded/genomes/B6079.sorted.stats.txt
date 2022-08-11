@@ -1,0 +1,12 @@
+Assembly statistics for: B6079.sorted.fasta
+   CONTIG COUNT  =  1028
+   TOTAL LENGTH  =  28567131
+            MIN  =  500
+            MAX  =  630841
+         MEDIAN  =  4773
+           MEAN  =  27789.04
+            L50  =  97
+            N50  =  91659
+            L90  =  332
+            N90  =  21895
+            GC%  =  49.58

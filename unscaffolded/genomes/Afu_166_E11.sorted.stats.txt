@@ -1,0 +1,12 @@
+Assembly statistics for: Afu_166_E11.sorted.fasta
+   CONTIG COUNT  =  265
+   TOTAL LENGTH  =  28133002
+            MIN  =  501
+            MAX  =  1112072
+         MEDIAN  =  6403
+           MEAN  =  106162.27
+            L50  =  21
+            N50  =  514625
+            L90  =  65
+            N90  =  114472
+            GC%  =  49.56

@@ -1,0 +1,12 @@
+Assembly statistics for: F18085.sorted.fasta
+   CONTIG COUNT  =  311
+   TOTAL LENGTH  =  28236572
+            MIN  =  505
+            MAX  =  1247749
+         MEDIAN  =  7088
+           MEAN  =  90792.84
+            L50  =  24
+            N50  =  406755
+            L90  =  82
+            N90  =  78768
+            GC%  =  49.64

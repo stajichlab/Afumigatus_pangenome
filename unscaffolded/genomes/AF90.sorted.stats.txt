@@ -1,0 +1,12 @@
+Assembly statistics for: AF90.sorted.fasta
+   CONTIG COUNT  =  273
+   TOTAL LENGTH  =  28034803
+            MIN  =  535
+            MAX  =  1052378
+         MEDIAN  =  19027
+           MEAN  =  102691.59
+            L50  =  27
+            N50  =  339836
+            L90  =  92
+            N90  =  82973
+            GC%  =  49.70

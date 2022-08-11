@@ -1,0 +1,12 @@
+Assembly statistics for: CF337.sorted.fasta
+   CONTIG COUNT  =  1394
+   TOTAL LENGTH  =  28049368
+            MIN  =  501
+            MAX  =  192513
+         MEDIAN  =  9142
+           MEAN  =  20121.50
+            L50  =  172
+            N50  =  48641
+            L90  =  605
+            N90  =  11906
+            GC%  =  49.77

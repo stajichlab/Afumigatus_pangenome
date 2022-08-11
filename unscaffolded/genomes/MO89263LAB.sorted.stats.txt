@@ -1,0 +1,12 @@
+Assembly statistics for: MO89263LAB.sorted.fasta
+   CONTIG COUNT  =  231
+   TOTAL LENGTH  =  28399032
+            MIN  =  500
+            MAX  =  1109744
+         MEDIAN  =  9404
+           MEAN  =  122939.53
+            L50  =  20
+            N50  =  502651
+            L90  =  63
+            N90  =  115808
+            GC%  =  49.65

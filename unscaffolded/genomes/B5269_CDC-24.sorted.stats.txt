@@ -1,0 +1,12 @@
+Assembly statistics for: B5269_CDC-24.sorted.fasta
+   CONTIG COUNT  =  268
+   TOTAL LENGTH  =  28088570
+            MIN  =  503
+            MAX  =  1310694
+         MEDIAN  =  20393
+           MEAN  =  104808.10
+            L50  =  26
+            N50  =  330574
+            L90  =  85
+            N90  =  87471
+            GC%  =  49.53

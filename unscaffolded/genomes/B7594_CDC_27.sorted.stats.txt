@@ -1,0 +1,12 @@
+Assembly statistics for: B7594_CDC_27.sorted.fasta
+   CONTIG COUNT  =  262
+   TOTAL LENGTH  =  28384947
+            MIN  =  511
+            MAX  =  706566
+         MEDIAN  =  62972
+           MEAN  =  108339.49
+            L50  =  38
+            N50  =  222896
+            L90  =  129
+            N90  =  63551
+            GC%  =  49.46

@@ -1,0 +1,12 @@
+Assembly statistics for: Mg18-1.sorted.fasta
+   CONTIG COUNT  =  346
+   TOTAL LENGTH  =  28326136
+            MIN  =  500
+            MAX  =  943037
+         MEDIAN  =  2611
+           MEAN  =  81867.45
+            L50  =  29
+            N50  =  306112
+            L90  =  89
+            N90  =  99706
+            GC%  =  49.53

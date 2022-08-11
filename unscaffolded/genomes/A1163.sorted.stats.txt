@@ -1,0 +1,12 @@
+Assembly statistics for: A1163.sorted.fasta
+   CONTIG COUNT  =  424
+   TOTAL LENGTH  =  28884671
+            MIN  =  504
+            MAX  =  717521
+         MEDIAN  =  5849
+           MEAN  =  68124.22
+            L50  =  32
+            N50  =  272556
+            L90  =  105
+            N90  =  73005
+            GC%  =  49.61

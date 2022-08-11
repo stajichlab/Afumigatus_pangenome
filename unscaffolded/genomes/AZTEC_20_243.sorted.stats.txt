@@ -1,0 +1,12 @@
+Assembly statistics for: AZTEC_20_243.sorted.fasta
+   CONTIG COUNT  =  6654
+   TOTAL LENGTH  =  27057267
+            MIN  =  500
+            MAX  =  33049
+         MEDIAN  =  2894
+           MEAN  =  4066.32
+            L50  =  1372
+            N50  =  6138
+            L90  =  4363
+            N90  =  1963
+            GC%  =  50.25

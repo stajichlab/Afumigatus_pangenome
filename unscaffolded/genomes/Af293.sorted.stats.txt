@@ -1,0 +1,12 @@
+Assembly statistics for: Af293.sorted.fasta
+   CONTIG COUNT  =  290
+   TOTAL LENGTH  =  28527102
+            MIN  =  512
+            MAX  =  1700927
+         MEDIAN  =  6299
+           MEAN  =  98369.32
+            L50  =  22
+            N50  =  393637
+            L90  =  68
+            N90  =  120436
+            GC%  =  49.72

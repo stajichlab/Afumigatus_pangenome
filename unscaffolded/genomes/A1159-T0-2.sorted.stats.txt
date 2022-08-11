@@ -1,0 +1,12 @@
+Assembly statistics for: A1159-T0-2.sorted.fasta
+   CONTIG COUNT  =  302
+   TOTAL LENGTH  =  27820343
+            MIN  =  503
+            MAX  =  1630670
+         MEDIAN  =  4103
+           MEAN  =  92120.34
+            L50  =  23
+            N50  =  365234
+            L90  =  71
+            N90  =  120241
+            GC%  =  49.67

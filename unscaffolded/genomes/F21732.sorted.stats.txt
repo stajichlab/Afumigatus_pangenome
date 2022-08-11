@@ -1,0 +1,12 @@
+Assembly statistics for: F21732.sorted.fasta
+   CONTIG COUNT  =  879
+   TOTAL LENGTH  =  28164760
+            MIN  =  501
+            MAX  =  319180
+         MEDIAN  =  14833
+           MEAN  =  32041.82
+            L50  =  113
+            N50  =  74668
+            L90  =  405
+            N90  =  17257
+            GC%  =  49.48

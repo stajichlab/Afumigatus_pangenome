@@ -1,0 +1,12 @@
+Assembly statistics for: B9781_CDC-19.sorted.fasta
+   CONTIG COUNT  =  10204
+   TOTAL LENGTH  =  21445868
+            MIN  =  500
+            MAX  =  18366
+         MEDIAN  =  1632
+           MEAN  =  2101.71
+            L50  =  2533
+            N50  =  2726
+            L90  =  7446
+            N90  =  1058
+            GC%  =  49.66

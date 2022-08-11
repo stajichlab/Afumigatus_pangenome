@@ -1,0 +1,12 @@
+Assembly statistics for: B5257_CDC-28.sorted.fasta
+   CONTIG COUNT  =  181
+   TOTAL LENGTH  =  28648688
+            MIN  =  564
+            MAX  =  1538344
+         MEDIAN  =  39740
+           MEAN  =  158280.04
+            L50  =  19
+            N50  =  469377
+            L90  =  65
+            N90  =  121553
+            GC%  =  49.48

@@ -1,0 +1,12 @@
+Assembly statistics for: F21572.sorted.fasta
+   CONTIG COUNT  =  619
+   TOTAL LENGTH  =  28375719
+            MIN  =  502
+            MAX  =  493034
+         MEDIAN  =  17362
+           MEAN  =  45841.23
+            L50  =  70
+            N50  =  121704
+            L90  =  254
+            N90  =  26928
+            GC%  =  49.44

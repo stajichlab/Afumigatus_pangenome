@@ -1,0 +1,12 @@
+Assembly statistics for: 117535A-1.1.sorted.fasta
+   CONTIG COUNT  =  199
+   TOTAL LENGTH  =  28228949
+            MIN  =  514
+            MAX  =  943058
+         MEDIAN  =  55951
+           MEAN  =  141854.02
+            L50  =  26
+            N50  =  348703
+            L90  =  82
+            N90  =  102970
+            GC%  =  49.51

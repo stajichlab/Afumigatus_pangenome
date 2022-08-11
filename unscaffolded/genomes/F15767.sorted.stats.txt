@@ -1,0 +1,12 @@
+Assembly statistics for: F15767.sorted.fasta
+   CONTIG COUNT  =  995
+   TOTAL LENGTH  =  28655792
+            MIN  =  500
+            MAX  =  459233
+         MEDIAN  =  7094
+           MEAN  =  28799.79
+            L50  =  104
+            N50  =  83116
+            L90  =  359
+            N90  =  21782
+            GC%  =  49.56

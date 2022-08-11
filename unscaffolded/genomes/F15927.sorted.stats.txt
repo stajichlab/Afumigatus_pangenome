@@ -1,0 +1,12 @@
+Assembly statistics for: F15927.sorted.fasta
+   CONTIG COUNT  =  161
+   TOTAL LENGTH  =  27405489
+            MIN  =  505
+            MAX  =  1983018
+         MEDIAN  =  6069
+           MEAN  =  170220.43
+            L50  =  11
+            N50  =  838114
+            L90  =  36
+            N90  =  237511
+            GC%  =  50.03

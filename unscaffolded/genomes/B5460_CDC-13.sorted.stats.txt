@@ -1,0 +1,12 @@
+Assembly statistics for: B5460_CDC-13.sorted.fasta
+   CONTIG COUNT  =  251
+   TOTAL LENGTH  =  28647558
+            MIN  =  527
+            MAX  =  869082
+         MEDIAN  =  39741
+           MEAN  =  114133.70
+            L50  =  31
+            N50  =  295096
+            L90  =  96
+            N90  =  86930
+            GC%  =  49.50

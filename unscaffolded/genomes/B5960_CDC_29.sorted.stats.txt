@@ -1,0 +1,12 @@
+Assembly statistics for: B5960_CDC_29.sorted.fasta
+   CONTIG COUNT  =  292
+   TOTAL LENGTH  =  28258860
+            MIN  =  528
+            MAX  =  706516
+         MEDIAN  =  44645
+           MEAN  =  96776.92
+            L50  =  40
+            N50  =  215734
+            L90  =  132
+            N90  =  60776
+            GC%  =  49.47

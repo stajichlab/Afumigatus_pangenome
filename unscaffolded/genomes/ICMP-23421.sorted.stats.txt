@@ -1,0 +1,12 @@
+Assembly statistics for: ICMP-23421.sorted.fasta
+   CONTIG COUNT  =  339
+   TOTAL LENGTH  =  28939270
+            MIN  =  506
+            MAX  =  667347
+         MEDIAN  =  55277
+           MEAN  =  85366.58
+            L50  =  58
+            N50  =  159625
+            L90  =  181
+            N90  =  52571
+            GC%  =  49.25

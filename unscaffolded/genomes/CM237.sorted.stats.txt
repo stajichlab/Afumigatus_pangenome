@@ -1,0 +1,12 @@
+Assembly statistics for: CM237.sorted.fasta
+   CONTIG COUNT  =  1067
+   TOTAL LENGTH  =  29154331
+            MIN  =  500
+            MAX  =  414520
+         MEDIAN  =  5440
+           MEAN  =  27323.65
+            L50  =  101
+            N50  =  91912
+            L90  =  358
+            N90  =  19605
+            GC%  =  49.70

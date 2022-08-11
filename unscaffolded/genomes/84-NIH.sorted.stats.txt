@@ -1,0 +1,12 @@
+Assembly statistics for: 84-NIH.sorted.fasta
+   CONTIG COUNT  =  189
+   TOTAL LENGTH  =  28031233
+            MIN  =  540
+            MAX  =  915698
+         MEDIAN  =  76882
+           MEAN  =  148313.40
+            L50  =  27
+            N50  =  351120
+            L90  =  84
+            N90  =  106781
+            GC%  =  49.58

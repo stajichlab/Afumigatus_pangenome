@@ -1,0 +1,12 @@
+Assembly statistics for: F18304.sorted.fasta
+   CONTIG COUNT  =  1593
+   TOTAL LENGTH  =  28577879
+            MIN  =  501
+            MAX  =  343496
+         MEDIAN  =  4957
+           MEAN  =  17939.66
+            L50  =  165
+            N50  =  51322
+            L90  =  587
+            N90  =  12070
+            GC%  =  49.85

@@ -1,0 +1,12 @@
+Assembly statistics for: B8783_CDC-17.sorted.fasta
+   CONTIG COUNT  =  8
+   TOTAL LENGTH  =  33112
+            MIN  =  846
+            MAX  =  9135
+         MEDIAN  =  3709
+           MEAN  =  4139.00
+            L50  =  3
+            N50  =  5790
+            L90  =  6
+            N90  =  2243
+            GC%  =  44.17

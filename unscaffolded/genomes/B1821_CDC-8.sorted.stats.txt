@@ -1,0 +1,12 @@
+Assembly statistics for: B1821_CDC-8.sorted.fasta
+   CONTIG COUNT  =  347
+   TOTAL LENGTH  =  29439742
+            MIN  =  500
+            MAX  =  646039
+         MEDIAN  =  12642
+           MEAN  =  84840.76
+            L50  =  36
+            N50  =  315550
+            L90  =  108
+            N90  =  70496
+            GC%  =  49.52

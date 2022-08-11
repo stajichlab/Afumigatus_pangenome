@@ -1,0 +1,12 @@
+Assembly statistics for: F12041.sorted.fasta
+   CONTIG COUNT  =  387
+   TOTAL LENGTH  =  28409526
+            MIN  =  503
+            MAX  =  729743
+         MEDIAN  =  9122
+           MEAN  =  73409.63
+            L50  =  35
+            N50  =  253935
+            L90  =  116
+            N90  =  71268
+            GC%  =  49.49

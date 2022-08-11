@@ -1,0 +1,12 @@
+Assembly statistics for: F20451.sorted.fasta
+   CONTIG COUNT  =  2552
+   TOTAL LENGTH  =  28581856
+            MIN  =  500
+            MAX  =  245228
+         MEDIAN  =  2630
+           MEAN  =  11199.79
+            L50  =  232
+            N50  =  33894
+            L90  =  939
+            N90  =  6712
+            GC%  =  49.41

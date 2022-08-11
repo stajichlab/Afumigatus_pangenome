@@ -1,0 +1,12 @@
+Assembly statistics for: CM6126.sorted.fasta
+   CONTIG COUNT  =  960
+   TOTAL LENGTH  =  28596367
+            MIN  =  501
+            MAX  =  344623
+         MEDIAN  =  11649
+           MEAN  =  29787.88
+            L50  =  112
+            N50  =  77526
+            L90  =  392
+            N90  =  20594
+            GC%  =  49.66

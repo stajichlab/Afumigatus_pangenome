@@ -1,0 +1,12 @@
+Assembly statistics for: ISSF_21.sorted.fasta
+   CONTIG COUNT  =  146
+   TOTAL LENGTH  =  28321837
+            MIN  =  525
+            MAX  =  2292047
+         MEDIAN  =  22108
+           MEAN  =  193985.18
+            L50  =  14
+            N50  =  668216
+            L90  =  43
+            N90  =  190385
+            GC%  =  49.57

@@ -1,0 +1,12 @@
+Assembly statistics for: MO91298SB.sorted.fasta
+   CONTIG COUNT  =  194
+   TOTAL LENGTH  =  27472063
+            MIN  =  510
+            MAX  =  1102163
+         MEDIAN  =  10559
+           MEAN  =  141608.57
+            L50  =  19
+            N50  =  532557
+            L90  =  54
+            N90  =  132652
+            GC%  =  49.67

@@ -1,0 +1,12 @@
+Assembly statistics for: AFUG_100413-0667.sorted.fasta
+   CONTIG COUNT  =  178
+   TOTAL LENGTH  =  28280117
+            MIN  =  519
+            MAX  =  1137917
+         MEDIAN  =  66092
+           MEAN  =  158877.06
+            L50  =  24
+            N50  =  381651
+            L90  =  74
+            N90  =  112091
+            GC%  =  49.50

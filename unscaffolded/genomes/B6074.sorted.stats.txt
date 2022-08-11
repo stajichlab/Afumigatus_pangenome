@@ -1,0 +1,12 @@
+Assembly statistics for: B6074.sorted.fasta
+   CONTIG COUNT  =  1063
+   TOTAL LENGTH  =  28554591
+            MIN  =  500
+            MAX  =  630839
+         MEDIAN  =  5011
+           MEAN  =  26862.27
+            L50  =  101
+            N50  =  84988
+            L90  =  350
+            N90  =  19600
+            GC%  =  49.58

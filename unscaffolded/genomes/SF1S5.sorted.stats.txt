@@ -1,0 +1,12 @@
+Assembly statistics for: SF1S5.sorted.fasta
+   CONTIG COUNT  =  323
+   TOTAL LENGTH  =  28202829
+            MIN  =  508
+            MAX  =  909983
+         MEDIAN  =  31245
+           MEAN  =  87315.26
+            L50  =  35
+            N50  =  233840
+            L90  =  125
+            N90  =  53589
+            GC%  =  49.45

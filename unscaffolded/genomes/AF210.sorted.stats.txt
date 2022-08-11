@@ -1,0 +1,12 @@
+Assembly statistics for: AF210.sorted.fasta
+   CONTIG COUNT  =  1551
+   TOTAL LENGTH  =  28264417
+            MIN  =  500
+            MAX  =  245374
+         MEDIAN  =  3124
+           MEAN  =  18223.35
+            L50  =  156
+            N50  =  53740
+            L90  =  521
+            N90  =  14289
+            GC%  =  49.61

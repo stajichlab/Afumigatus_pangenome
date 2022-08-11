@@ -1,0 +1,12 @@
+Assembly statistics for: Moose_3-1.1.sorted.fasta
+   CONTIG COUNT  =  186
+   TOTAL LENGTH  =  29880248
+            MIN  =  502
+            MAX  =  1292257
+         MEDIAN  =  32419
+           MEAN  =  160646.49
+            L50  =  21
+            N50  =  410963
+            L90  =  67
+            N90  =  146486
+            GC%  =  50.13

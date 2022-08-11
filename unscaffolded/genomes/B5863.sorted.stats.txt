@@ -1,0 +1,12 @@
+Assembly statistics for: B5863.sorted.fasta
+   CONTIG COUNT  =  1006
+   TOTAL LENGTH  =  28136147
+            MIN  =  502
+            MAX  =  343308
+         MEDIAN  =  7896
+           MEAN  =  27968.34
+            L50  =  115
+            N50  =  77172
+            L90  =  375
+            N90  =  20166
+            GC%  =  49.52

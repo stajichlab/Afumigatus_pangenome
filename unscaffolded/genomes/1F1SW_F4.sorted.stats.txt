@@ -1,0 +1,12 @@
+Assembly statistics for: 1F1SW_F4.sorted.fasta
+   CONTIG COUNT  =  209
+   TOTAL LENGTH  =  27955841
+            MIN  =  501
+            MAX  =  1942531
+         MEDIAN  =  6029
+           MEAN  =  133760.00
+            L50  =  14
+            N50  =  627787
+            L90  =  50
+            N90  =  139412
+            GC%  =  49.64

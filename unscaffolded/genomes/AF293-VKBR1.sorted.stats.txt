@@ -1,0 +1,12 @@
+Assembly statistics for: AF293-VKBR1.sorted.fasta
+   CONTIG COUNT  =  755
+   TOTAL LENGTH  =  28644383
+            MIN  =  500
+            MAX  =  537709
+         MEDIAN  =  5515
+           MEAN  =  37939.58
+            L50  =  66
+            N50  =  129761
+            L90  =  225
+            N90  =  33143
+            GC%  =  49.55

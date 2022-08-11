@@ -1,0 +1,12 @@
+Assembly statistics for: DMC_AF100-4B.sorted.fasta
+   CONTIG COUNT  =  216
+   TOTAL LENGTH  =  28094234
+            MIN  =  513
+            MAX  =  981435
+         MEDIAN  =  48676
+           MEAN  =  130065.90
+            L50  =  28
+            N50  =  345513
+            L90  =  86
+            N90  =  97904
+            GC%  =  49.58

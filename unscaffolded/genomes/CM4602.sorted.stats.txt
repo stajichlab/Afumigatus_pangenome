@@ -1,0 +1,12 @@
+Assembly statistics for: CM4602.sorted.fasta
+   CONTIG COUNT  =  734
+   TOTAL LENGTH  =  27447640
+            MIN  =  503
+            MAX  =  293117
+         MEDIAN  =  19190
+           MEAN  =  37394.60
+            L50  =  98
+            N50  =  88260
+            L90  =  325
+            N90  =  24666
+            GC%  =  50.09

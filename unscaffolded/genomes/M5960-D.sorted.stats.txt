@@ -1,0 +1,12 @@
+Assembly statistics for: M5960-D.sorted.fasta
+   CONTIG COUNT  =  465
+   TOTAL LENGTH  =  27962882
+            MIN  =  500
+            MAX  =  919829
+         MEDIAN  =  7616
+           MEAN  =  60135.23
+            L50  =  40
+            N50  =  231760
+            L90  =  141
+            N90  =  51986
+            GC%  =  49.70

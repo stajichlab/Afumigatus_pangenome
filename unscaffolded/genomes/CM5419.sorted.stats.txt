@@ -1,0 +1,12 @@
+Assembly statistics for: CM5419.sorted.fasta
+   CONTIG COUNT  =  969
+   TOTAL LENGTH  =  28769592
+            MIN  =  501
+            MAX  =  494542
+         MEDIAN  =  8841
+           MEAN  =  29689.98
+            L50  =  104
+            N50  =  81189
+            L90  =  370
+            N90  =  20589
+            GC%  =  49.37

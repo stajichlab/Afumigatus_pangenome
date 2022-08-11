@@ -1,0 +1,12 @@
+Assembly statistics for: A_fumigatus_v67-37.sorted.fasta
+   CONTIG COUNT  =  8
+   TOTAL LENGTH  =  29972
+            MIN  =  810
+            MAX  =  7843
+         MEDIAN  =  2322
+           MEAN  =  3746.50
+            L50  =  2
+            N50  =  7791
+            L90  =  6
+            N90  =  1825
+            GC%  =  50.63

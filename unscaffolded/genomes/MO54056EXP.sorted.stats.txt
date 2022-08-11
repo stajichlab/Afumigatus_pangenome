@@ -1,0 +1,12 @@
+Assembly statistics for: MO54056EXP.sorted.fasta
+   CONTIG COUNT  =  221
+   TOTAL LENGTH  =  28677520
+            MIN  =  511
+            MAX  =  1078860
+         MEDIAN  =  20845
+           MEAN  =  129762.53
+            L50  =  25
+            N50  =  404472
+            L90  =  74
+            N90  =  109400
+            GC%  =  49.62

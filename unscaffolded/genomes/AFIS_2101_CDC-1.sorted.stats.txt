@@ -1,0 +1,12 @@
+Assembly statistics for: AFIS_2101_CDC-1.sorted.fasta
+   CONTIG COUNT  =  219
+   TOTAL LENGTH  =  28221311
+            MIN  =  509
+            MAX  =  1222483
+         MEDIAN  =  65808
+           MEAN  =  128864.43
+            L50  =  29
+            N50  =  296928
+            L90  =  96
+            N90  =  86190
+            GC%  =  49.51

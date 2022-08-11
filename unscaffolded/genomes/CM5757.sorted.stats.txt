@@ -1,0 +1,12 @@
+Assembly statistics for: CM5757.sorted.fasta
+   CONTIG COUNT  =  670
+   TOTAL LENGTH  =  28455323
+            MIN  =  506
+            MAX  =  496389
+         MEDIAN  =  19297
+           MEAN  =  42470.63
+            L50  =  83
+            N50  =  108020
+            L90  =  291
+            N90  =  27827
+            GC%  =  49.51

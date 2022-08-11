@@ -1,0 +1,12 @@
+Assembly statistics for: AZTEC_3_226.sorted.fasta
+   CONTIG COUNT  =  910
+   TOTAL LENGTH  =  28192695
+            MIN  =  501
+            MAX  =  275518
+         MEDIAN  =  12731
+           MEAN  =  30980.98
+            L50  =  119
+            N50  =  75345
+            L90  =  388
+            N90  =  19975
+            GC%  =  49.55

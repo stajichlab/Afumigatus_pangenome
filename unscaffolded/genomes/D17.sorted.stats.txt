@@ -1,0 +1,12 @@
+Assembly statistics for: D17.sorted.fasta
+   CONTIG COUNT  =  402
+   TOTAL LENGTH  =  27961571
+            MIN  =  507
+            MAX  =  625816
+         MEDIAN  =  24730
+           MEAN  =  69556.15
+            L50  =  48
+            N50  =  173508
+            L90  =  161
+            N90  =  44604
+            GC%  =  49.56

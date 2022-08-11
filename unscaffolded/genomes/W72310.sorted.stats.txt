@@ -1,0 +1,12 @@
+Assembly statistics for: W72310.sorted.fasta
+   CONTIG COUNT  =  1222
+   TOTAL LENGTH  =  28112961
+            MIN  =  500
+            MAX  =  214715
+         MEDIAN  =  10620
+           MEAN  =  23005.70
+            L50  =  169
+            N50  =  51866
+            L90  =  543
+            N90  =  14798
+            GC%  =  49.93

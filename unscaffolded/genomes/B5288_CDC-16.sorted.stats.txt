@@ -1,0 +1,12 @@
+Assembly statistics for: B5288_CDC-16.sorted.fasta
+   CONTIG COUNT  =  457
+   TOTAL LENGTH  =  29044354
+            MIN  =  503
+            MAX  =  1217382
+         MEDIAN  =  3444
+           MEAN  =  63554.39
+            L50  =  24
+            N50  =  391812
+            L90  =  89
+            N90  =  68961
+            GC%  =  49.35

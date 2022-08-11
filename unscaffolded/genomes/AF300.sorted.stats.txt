@@ -1,0 +1,12 @@
+Assembly statistics for: AF300.sorted.fasta
+   CONTIG COUNT  =  605
+   TOTAL LENGTH  =  28375550
+            MIN  =  503
+            MAX  =  396751
+         MEDIAN  =  19292
+           MEAN  =  46901.74
+            L50  =  73
+            N50  =  116162
+            L90  =  258
+            N90  =  28357
+            GC%  =  49.46

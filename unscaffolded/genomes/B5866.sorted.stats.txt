@@ -1,0 +1,12 @@
+Assembly statistics for: B5866.sorted.fasta
+   CONTIG COUNT  =  967
+   TOTAL LENGTH  =  28136335
+            MIN  =  512
+            MAX  =  401566
+         MEDIAN  =  8228
+           MEAN  =  29096.52
+            L50  =  111
+            N50  =  80192
+            L90  =  367
+            N90  =  21353
+            GC%  =  49.51

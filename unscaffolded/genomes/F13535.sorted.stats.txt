@@ -1,0 +1,12 @@
+Assembly statistics for: F13535.sorted.fasta
+   CONTIG COUNT  =  366
+   TOTAL LENGTH  =  28403318
+            MIN  =  508
+            MAX  =  909984
+         MEDIAN  =  13848
+           MEAN  =  77604.69
+            L50  =  35
+            N50  =  243195
+            L90  =  118
+            N90  =  65164
+            GC%  =  49.50

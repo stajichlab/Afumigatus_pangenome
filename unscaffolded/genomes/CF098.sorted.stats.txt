@@ -1,0 +1,12 @@
+Assembly statistics for: CF098.sorted.fasta
+   CONTIG COUNT  =  1711
+   TOTAL LENGTH  =  28199195
+            MIN  =  501
+            MAX  =  255278
+         MEDIAN  =  6312
+           MEAN  =  16481.12
+            L50  =  194
+            N50  =  44482
+            L90  =  705
+            N90  =  10025
+            GC%  =  49.82

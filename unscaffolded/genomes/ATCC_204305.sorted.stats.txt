@@ -1,0 +1,12 @@
+Assembly statistics for: ATCC_204305.sorted.fasta
+   CONTIG COUNT  =  746
+   TOTAL LENGTH  =  27755903
+            MIN  =  504
+            MAX  =  317162
+         MEDIAN  =  13726
+           MEAN  =  37206.30
+            L50  =  89
+            N50  =  100487
+            L90  =  303
+            N90  =  26636
+            GC%  =  49.74

@@ -1,0 +1,12 @@
+Assembly statistics for: CEA10.sorted.fasta
+   CONTIG COUNT  =  843
+   TOTAL LENGTH  =  28947214
+            MIN  =  502
+            MAX  =  355619
+         MEDIAN  =  12711
+           MEAN  =  34338.33
+            L50  =  98
+            N50  =  91642
+            L90  =  344
+            N90  =  22425
+            GC%  =  49.57

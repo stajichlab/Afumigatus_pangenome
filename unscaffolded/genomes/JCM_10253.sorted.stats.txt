@@ -1,0 +1,12 @@
+Assembly statistics for: JCM_10253.sorted.fasta
+   CONTIG COUNT  =  375
+   TOTAL LENGTH  =  28123857
+            MIN  =  504
+            MAX  =  701360
+         MEDIAN  =  31844
+           MEAN  =  74996.95
+            L50  =  49
+            N50  =  191108
+            L90  =  157
+            N90  =  43542
+            GC%  =  49.64

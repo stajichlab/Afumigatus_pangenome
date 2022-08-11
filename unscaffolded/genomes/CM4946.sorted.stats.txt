@@ -1,0 +1,12 @@
+Assembly statistics for: CM4946.sorted.fasta
+   CONTIG COUNT  =  770
+   TOTAL LENGTH  =  27567566
+            MIN  =  501
+            MAX  =  332679
+         MEDIAN  =  12344
+           MEAN  =  35802.03
+            L50  =  93
+            N50  =  95878
+            L90  =  303
+            N90  =  25886
+            GC%  =  50.00

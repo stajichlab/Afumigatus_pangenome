@@ -1,0 +1,12 @@
+Assembly statistics for: B10540_CDC-20.sorted.fasta
+   CONTIG COUNT  =  212
+   TOTAL LENGTH  =  28123514
+            MIN  =  511
+            MAX  =  1068758
+         MEDIAN  =  54146
+           MEAN  =  132658.08
+            L50  =  29
+            N50  =  340340
+            L90  =  86
+            N90  =  106365
+            GC%  =  49.51

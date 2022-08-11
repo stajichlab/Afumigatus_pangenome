@@ -1,0 +1,12 @@
+Assembly statistics for: MO68507EXP.sorted.fasta
+   CONTIG COUNT  =  365
+   TOTAL LENGTH  =  28628187
+            MIN  =  507
+            MAX  =  1148719
+         MEDIAN  =  3448
+           MEAN  =  78433.39
+            L50  =  26
+            N50  =  413501
+            L90  =  75
+            N90  =  110763
+            GC%  =  49.68

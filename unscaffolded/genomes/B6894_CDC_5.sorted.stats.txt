@@ -1,0 +1,12 @@
+Assembly statistics for: B6894_CDC_5.sorted.fasta
+   CONTIG COUNT  =  329
+   TOTAL LENGTH  =  28286615
+            MIN  =  527
+            MAX  =  490107
+         MEDIAN  =  46098
+           MEAN  =  85977.55
+            L50  =  50
+            N50  =  183296
+            L90  =  156
+            N90  =  53182
+            GC%  =  49.52

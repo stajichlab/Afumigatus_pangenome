@@ -1,0 +1,12 @@
+Assembly statistics for: NCPF-7811.sorted.fasta
+   CONTIG COUNT  =  1568
+   TOTAL LENGTH  =  28454639
+            MIN  =  500
+            MAX  =  213939
+         MEDIAN  =  4483
+           MEAN  =  18147.09
+            L50  =  163
+            N50  =  50955
+            L90  =  563
+            N90  =  12963
+            GC%  =  49.46

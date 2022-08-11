@@ -1,0 +1,12 @@
+Assembly statistics for: MO69250EXP.sorted.fasta
+   CONTIG COUNT  =  233
+   TOTAL LENGTH  =  28421858
+            MIN  =  500
+            MAX  =  1097745
+         MEDIAN  =  7628
+           MEAN  =  121982.22
+            L50  =  22
+            N50  =  485895
+            L90  =  65
+            N90  =  118424
+            GC%  =  49.64

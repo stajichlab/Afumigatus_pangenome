@@ -1,0 +1,12 @@
+Assembly statistics for: COH_913.sorted.fasta
+   CONTIG COUNT  =  430
+   TOTAL LENGTH  =  28636272
+            MIN  =  500
+            MAX  =  592158
+         MEDIAN  =  32674
+           MEAN  =  66595.98
+            L50  =  57
+            N50  =  154774
+            L90  =  189
+            N90  =  42345
+            GC%  =  49.51

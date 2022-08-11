@@ -1,0 +1,12 @@
+Assembly statistics for: CM3720.sorted.fasta
+   CONTIG COUNT  =  701
+   TOTAL LENGTH  =  27459253
+            MIN  =  505
+            MAX  =  374429
+         MEDIAN  =  15394
+           MEAN  =  39171.54
+            L50  =  91
+            N50  =  98830
+            L90  =  288
+            N90  =  26807
+            GC%  =  50.09

@@ -1,0 +1,12 @@
+Assembly statistics for: F14946G.sorted.fasta
+   CONTIG COUNT  =  220
+   TOTAL LENGTH  =  28158041
+            MIN  =  505
+            MAX  =  1146057
+         MEDIAN  =  19003
+           MEAN  =  127991.10
+            L50  =  22
+            N50  =  419130
+            L90  =  70
+            N90  =  117172
+            GC%  =  49.60

@@ -1,0 +1,12 @@
+Assembly statistics for: AP65.sorted.fasta
+   CONTIG COUNT  =  447
+   TOTAL LENGTH  =  27897377
+            MIN  =  510
+            MAX  =  771139
+         MEDIAN  =  13839
+           MEAN  =  62410.24
+            L50  =  46
+            N50  =  197717
+            L90  =  145
+            N90  =  47043
+            GC%  =  49.65

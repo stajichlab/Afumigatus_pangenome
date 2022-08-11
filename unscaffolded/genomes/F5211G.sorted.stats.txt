@@ -1,0 +1,12 @@
+Assembly statistics for: F5211G.sorted.fasta
+   CONTIG COUNT  =  309
+   TOTAL LENGTH  =  28590343
+            MIN  =  500
+            MAX  =  798172
+         MEDIAN  =  28811
+           MEAN  =  92525.38
+            L50  =  36
+            N50  =  262691
+            L90  =  113
+            N90  =  66240
+            GC%  =  49.42

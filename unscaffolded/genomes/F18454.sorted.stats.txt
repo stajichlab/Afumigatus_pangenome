@@ -1,0 +1,12 @@
+Assembly statistics for: F18454.sorted.fasta
+   CONTIG COUNT  =  2522
+   TOTAL LENGTH  =  27044132
+            MIN  =  501
+            MAX  =  129140
+         MEDIAN  =  5452
+           MEAN  =  10723.29
+            L50  =  339
+            N50  =  22456
+            L90  =  1282
+            N90  =  5326
+            GC%  =  49.23

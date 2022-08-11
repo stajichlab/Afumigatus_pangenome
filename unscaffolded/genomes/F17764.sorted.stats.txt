@@ -1,0 +1,12 @@
+Assembly statistics for: F17764.sorted.fasta
+   CONTIG COUNT  =  399
+   TOTAL LENGTH  =  27751154
+            MIN  =  502
+            MAX  =  1170555
+         MEDIAN  =  4821
+           MEAN  =  69551.76
+            L50  =  33
+            N50  =  279793
+            L90  =  109
+            N90  =  70554
+            GC%  =  49.74

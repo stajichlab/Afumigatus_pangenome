@@ -1,0 +1,12 @@
+Assembly statistics for: LMB-35Aa.sorted.fasta
+   CONTIG COUNT  =  225
+   TOTAL LENGTH  =  27437142
+            MIN  =  503
+            MAX  =  1699649
+         MEDIAN  =  3532
+           MEAN  =  121942.85
+            L50  =  16
+            N50  =  524161
+            L90  =  47
+            N90  =  217103
+            GC%  =  50.01

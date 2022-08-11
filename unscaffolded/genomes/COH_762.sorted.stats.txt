@@ -1,0 +1,12 @@
+Assembly statistics for: COH_762.sorted.fasta
+   CONTIG COUNT  =  284
+   TOTAL LENGTH  =  28350981
+            MIN  =  506
+            MAX  =  1128043
+         MEDIAN  =  8369
+           MEAN  =  99827.40
+            L50  =  25
+            N50  =  391591
+            L90  =  80
+            N90  =  90611
+            GC%  =  49.50

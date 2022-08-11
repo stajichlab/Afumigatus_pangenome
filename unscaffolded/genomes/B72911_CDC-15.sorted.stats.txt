@@ -1,0 +1,12 @@
+Assembly statistics for: B72911_CDC-15.sorted.fasta
+   CONTIG COUNT  =  191
+   TOTAL LENGTH  =  28046340
+            MIN  =  507
+            MAX  =  1124429
+         MEDIAN  =  78097
+           MEAN  =  146839.48
+            L50  =  29
+            N50  =  318938
+            L90  =  86
+            N90  =  109987
+            GC%  =  49.59

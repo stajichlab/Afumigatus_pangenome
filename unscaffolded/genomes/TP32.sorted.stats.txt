@@ -1,0 +1,12 @@
+Assembly statistics for: TP32.sorted.fasta
+   CONTIG COUNT  =  690
+   TOTAL LENGTH  =  27855395
+            MIN  =  506
+            MAX  =  315381
+         MEDIAN  =  22675
+           MEAN  =  40370.14
+            L50  =  97
+            N50  =  84505
+            L90  =  327
+            N90  =  25447
+            GC%  =  49.90

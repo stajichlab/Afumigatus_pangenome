@@ -1,0 +1,12 @@
+Assembly statistics for: F16216.sorted.fasta
+   CONTIG COUNT  =  424
+   TOTAL LENGTH  =  28022450
+            MIN  =  502
+            MAX  =  611078
+         MEDIAN  =  7232
+           MEAN  =  66090.68
+            L50  =  39
+            N50  =  235526
+            L90  =  125
+            N90  =  52493
+            GC%  =  49.53

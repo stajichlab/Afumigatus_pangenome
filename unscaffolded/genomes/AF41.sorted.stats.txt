@@ -1,0 +1,12 @@
+Assembly statistics for: AF41.sorted.fasta
+   CONTIG COUNT  =  393
+   TOTAL LENGTH  =  27755666
+            MIN  =  500
+            MAX  =  727354
+         MEDIAN  =  6195
+           MEAN  =  70625.10
+            L50  =  34
+            N50  =  289960
+            L90  =  108
+            N90  =  74121
+            GC%  =  49.74

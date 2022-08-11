@@ -1,0 +1,12 @@
+Assembly statistics for: CM3262.sorted.fasta
+   CONTIG COUNT  =  745
+   TOTAL LENGTH  =  27534685
+            MIN  =  499
+            MAX  =  471495
+         MEDIAN  =  15905
+           MEAN  =  36959.31
+            L50  =  96
+            N50  =  95663
+            L90  =  313
+            N90  =  24515
+            GC%  =  50.10

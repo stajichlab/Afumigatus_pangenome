@@ -1,0 +1,12 @@
+Assembly statistics for: CM7555.sorted.fasta
+   CONTIG COUNT  =  561
+   TOTAL LENGTH  =  28762427
+            MIN  =  503
+            MAX  =  407655
+         MEDIAN  =  28706
+           MEAN  =  51269.92
+            L50  =  85
+            N50  =  108456
+            L90  =  277
+            N90  =  29860
+            GC%  =  49.54

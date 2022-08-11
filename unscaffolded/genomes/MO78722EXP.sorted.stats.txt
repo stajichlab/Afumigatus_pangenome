@@ -1,0 +1,12 @@
+Assembly statistics for: MO78722EXP.sorted.fasta
+   CONTIG COUNT  =  199
+   TOTAL LENGTH  =  28476814
+            MIN  =  504
+            MAX  =  1721595
+         MEDIAN  =  36355
+           MEAN  =  143099.57
+            L50  =  21
+            N50  =  472253
+            L90  =  68
+            N90  =  106488
+            GC%  =  49.54

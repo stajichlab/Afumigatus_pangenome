@@ -1,0 +1,12 @@
+Assembly statistics for: 12-7505446.sorted.fasta
+   CONTIG COUNT  =  269
+   TOTAL LENGTH  =  28390179
+            MIN  =  506
+            MAX  =  1233380
+         MEDIAN  =  13039
+           MEAN  =  105539.70
+            L50  =  22
+            N50  =  422452
+            L90  =  76
+            N90  =  90912
+            GC%  =  49.50

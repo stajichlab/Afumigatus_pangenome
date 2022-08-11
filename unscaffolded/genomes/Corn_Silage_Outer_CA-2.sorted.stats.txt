@@ -1,0 +1,12 @@
+Assembly statistics for: Corn_Silage_Outer_CA-2.sorted.fasta
+   CONTIG COUNT  =  78
+   TOTAL LENGTH  =  126781
+            MIN  =  505
+            MAX  =  8611
+         MEDIAN  =  1109
+           MEAN  =  1625.40
+            L50  =  15
+            N50  =  2047
+            L90  =  57
+            N90  =  693
+            GC%  =  43.60

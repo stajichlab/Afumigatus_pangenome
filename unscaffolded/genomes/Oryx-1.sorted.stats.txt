@@ -1,0 +1,12 @@
+Assembly statistics for: Oryx-1.sorted.fasta
+   CONTIG COUNT  =  255
+   TOTAL LENGTH  =  27966114
+            MIN  =  521
+            MAX  =  700531
+         MEDIAN  =  54176
+           MEAN  =  109671.04
+            L50  =  37
+            N50  =  252898
+            L90  =  119
+            N90  =  63110
+            GC%  =  49.56

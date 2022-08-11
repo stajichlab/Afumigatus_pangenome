@@ -1,0 +1,12 @@
+Assembly statistics for: 204NB-8.sorted.fasta
+   CONTIG COUNT  =  1553
+   TOTAL LENGTH  =  32160543
+            MIN  =  507
+            MAX  =  199271
+         MEDIAN  =  11152
+           MEAN  =  20708.66
+            L50  =  235
+            N50  =  42507
+            L90  =  779
+            N90  =  11104
+            GC%  =  51.80

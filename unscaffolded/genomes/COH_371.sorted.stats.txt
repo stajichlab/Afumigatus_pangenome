@@ -1,0 +1,12 @@
+Assembly statistics for: COH_371.sorted.fasta
+   CONTIG COUNT  =  427
+   TOTAL LENGTH  =  27942522
+            MIN  =  501
+            MAX  =  835686
+         MEDIAN  =  3634
+           MEAN  =  65439.16
+            L50  =  33
+            N50  =  263805
+            L90  =  114
+            N90  =  71458
+            GC%  =  49.82

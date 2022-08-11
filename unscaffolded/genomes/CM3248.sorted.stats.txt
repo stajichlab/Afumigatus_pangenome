@@ -1,0 +1,12 @@
+Assembly statistics for: CM3248.sorted.fasta
+   CONTIG COUNT  =  793
+   TOTAL LENGTH  =  27840499
+            MIN  =  500
+            MAX  =  375608
+         MEDIAN  =  13377
+           MEAN  =  35107.82
+            L50  =  87
+            N50  =  98858
+            L90  =  316
+            N90  =  25172
+            GC%  =  49.85

@@ -1,0 +1,12 @@
+Assembly statistics for: F17729.sorted.fasta
+   CONTIG COUNT  =  277
+   TOTAL LENGTH  =  28131049
+            MIN  =  509
+            MAX  =  1193303
+         MEDIAN  =  13663
+           MEAN  =  101556.13
+            L50  =  28
+            N50  =  366284
+            L90  =  87
+            N90  =  89295
+            GC%  =  49.62

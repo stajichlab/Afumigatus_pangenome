@@ -1,0 +1,12 @@
+Assembly statistics for: CM7560.sorted.fasta
+   CONTIG COUNT  =  602
+   TOTAL LENGTH  =  27133899
+            MIN  =  518
+            MAX  =  440366
+         MEDIAN  =  24999
+           MEAN  =  45072.92
+            L50  =  89
+            N50  =  97869
+            L90  =  285
+            N90  =  26612
+            GC%  =  50.01

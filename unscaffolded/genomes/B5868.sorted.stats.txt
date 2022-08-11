@@ -1,0 +1,12 @@
+Assembly statistics for: B5868.sorted.fasta
+   CONTIG COUNT  =  1005
+   TOTAL LENGTH  =  28131597
+            MIN  =  502
+            MAX  =  371821
+         MEDIAN  =  8722
+           MEAN  =  27991.64
+            L50  =  119
+            N50  =  72197
+            L90  =  390
+            N90  =  19747
+            GC%  =  49.52

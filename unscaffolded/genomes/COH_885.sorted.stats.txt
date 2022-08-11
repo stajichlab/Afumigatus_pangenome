@@ -1,0 +1,12 @@
+Assembly statistics for: COH_885.sorted.fasta
+   CONTIG COUNT  =  804
+   TOTAL LENGTH  =  29114187
+            MIN  =  500
+            MAX  =  1195335
+         MEDIAN  =  2040
+           MEAN  =  36211.68
+            L50  =  45
+            N50  =  167814
+            L90  =  183
+            N90  =  37260
+            GC%  =  49.33

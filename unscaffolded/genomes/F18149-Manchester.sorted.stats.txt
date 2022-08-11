@@ -1,0 +1,12 @@
+Assembly statistics for: F18149-Manchester.sorted.fasta
+   CONTIG COUNT  =  870
+   TOTAL LENGTH  =  28838275
+            MIN  =  503
+            MAX  =  508310
+         MEDIAN  =  6374
+           MEAN  =  33147.44
+            L50  =  71
+            N50  =  122479
+            L90  =  271
+            N90  =  21653
+            GC%  =  49.45

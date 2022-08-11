@@ -1,0 +1,12 @@
+Assembly statistics for: Afu_343_P_11.sorted.fasta
+   CONTIG COUNT  =  499
+   TOTAL LENGTH  =  28871011
+            MIN  =  500
+            MAX  =  1623155
+         MEDIAN  =  2600
+           MEAN  =  57857.74
+            L50  =  24
+            N50  =  418909
+            L90  =  100
+            N90  =  63778
+            GC%  =  49.50

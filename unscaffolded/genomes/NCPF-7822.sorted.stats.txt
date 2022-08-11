@@ -1,0 +1,12 @@
+Assembly statistics for: NCPF-7822.sorted.fasta
+   CONTIG COUNT  =  1017
+   TOTAL LENGTH  =  27723315
+            MIN  =  500
+            MAX  =  319612
+         MEDIAN  =  6271
+           MEAN  =  27259.90
+            L50  =  104
+            N50  =  83062
+            L90  =  357
+            N90  =  20086
+            GC%  =  49.87

@@ -1,0 +1,12 @@
+Assembly statistics for: CM2495.sorted.fasta
+   CONTIG COUNT  =  675
+   TOTAL LENGTH  =  26824303
+            MIN  =  509
+            MAX  =  271243
+         MEDIAN  =  22824
+           MEAN  =  39739.71
+            L50  =  97
+            N50  =  85619
+            L90  =  325
+            N90  =  24863
+            GC%  =  50.29

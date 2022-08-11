@@ -1,0 +1,12 @@
+Assembly statistics for: CM2141.sorted.fasta
+   CONTIG COUNT  =  923
+   TOTAL LENGTH  =  29398963
+            MIN  =  500
+            MAX  =  310698
+         MEDIAN  =  8660
+           MEAN  =  31851.53
+            L50  =  96
+            N50  =  91947
+            L90  =  340
+            N90  =  23826
+            GC%  =  49.23
